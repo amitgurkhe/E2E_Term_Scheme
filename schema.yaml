@@ -22,4 +22,4 @@ COLUMNS:
   y : object
 
 TARGET_COLUMN:
-  name: y
+  name: y_enc
